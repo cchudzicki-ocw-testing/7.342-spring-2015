@@ -85,6 +85,6 @@ Seminar Meeting
 Out of Class
 ------------
 
-*   {{< resource_link d7cfd5cc-0d2e-3054-c937-ff6f333a2195 "Reading assignments" >}} – two journal articles per week
-*   {{< resource_link a2c9f569-476c-90c0-16f0-fa48b3e79d9a "Oral Presentation" >}}
-*   {{< resource_link a2c9f569-476c-90c0-16f0-fa48b3e79d9a "Written Assignment" >}}
+*   {{% resource_link d7cfd5cc-0d2e-3054-c937-ff6f333a2195 "Reading assignments" %}} – two journal articles per week
+*   {{% resource_link a2c9f569-476c-90c0-16f0-fa48b3e79d9a "Oral Presentation" %}}
+*   {{% resource_link a2c9f569-476c-90c0-16f0-fa48b3e79d9a "Written Assignment" %}}
